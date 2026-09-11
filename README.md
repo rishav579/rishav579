@@ -2,9 +2,9 @@
 
 ### AI Engineer · Applied AI · AI Product Engineering
 
-I build **production-oriented AI systems** that turn research ideas into reliable products—from agentic workflows and secure RAG to inference infrastructure, observability, and multilingual voice experiences.
+I build reliable AI products and backend systems end to end—from retrieval-grounded applications and governed agentic workflows to AI-native full-stack products and applied ML systems.
 
-My focus is the full lifecycle of AI products: **problem framing → system design → model integration → evaluation → secure deployment → measurable outcomes**.
+My work focuses on turning AI capabilities into usable software with clear boundaries, evaluation, observability, and human control where it matters.
 
 ## What I build
 
@@ -19,14 +19,12 @@ My focus is the full lifecycle of AI products: **problem framing → system desi
 
 | Project | What it demonstrates |
 | --- | --- |
-| [AGENT-LENS](https://github.com/rishav579/AGENT-LENS-) | LLM-agent observability: traces reasoning steps and tool calls, detects loops and cost anomalies, and supports replay-based debugging. |
 | [Secure Enterprise RAG](https://github.com/rishav579/secure-enterprise-rag) | Multi-tenant, authorization-aware RAG with JWT, RBAC, PII protection, PostgreSQL/pgvector, hybrid retrieval, and security evaluation. |
-| [Epoxy Distributed AI Router](https://github.com/rishav579/epoxy-distributed-ai-router) | Semantic-complexity-based routing between local SLMs and cloud LLMs with FastAPI, RabbitMQ, PyTorch/LoRA, and AWS EKS. |
 | [OWNARA AI](https://github.com/rishav579/OWNARA-AI) | Governed AI execution with bounded authority, human approval, measurable outcomes, and auditable workflows. |
 | [Repo Pilot](https://github.com/rishav579/repo-pilot) | Evidence-based software engineering intelligence for codebase understanding, diagnosis, code review, and developer assistance. |
 | [Sahayak](https://github.com/rishav579/sahayak) | AI-assisted meeting coordination for Hindi, English, and Hinglish teams. |
 | [Bhashini Voice Gateway](https://github.com/rishav579/bhashini-voice-gateway) | Multilingual voice-to-action workflows with ASR, LangGraph intent routing, human confirmation, and safe actions. |
-| [Self-Improving AI Agent](https://github.com/rishav579/self-learning--ai-agent) | Experience-driven agents that learn from task outcomes, retain reusable strategies, and adapt future behavior. |
+| [Demand-Risk Intelligence Engine](https://github.com/rishav579/Real-Time-Demand-Risk-Intelligence-Engine) | Applied ML system using seeded enterprise telemetry for demand forecasting, inventory risk scoring, and explainable replenishment recommendations. |
 
 ## Technical toolkit
 
@@ -49,6 +47,6 @@ Reliable long-running agents · evaluation-driven development · efficient model
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-0ea5e9?style=flat&logo=vercel)](https://rishav-portfolio-starter.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-rishav579-181717?style=flat&logo=github)](https://github.com/rishav579)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rishav-raj-091524322/)
 
 > Open to conversations about applied AI, AI platform engineering, and building useful products with modern AI systems.

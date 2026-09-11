@@ -47,6 +47,7 @@ My focus is the full lifecycle of AI products: **problem framing → system desi
 
 Reliable long-running agents · evaluation-driven development · efficient model routing · secure AI infrastructure · multilingual AI products
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-0ea5e9?style=flat&logo=vercel)](https://rishav-portfolio-starter.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-rishav579-181717?style=flat&logo=github)](https://github.com/rishav579)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/)
 
